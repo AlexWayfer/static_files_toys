@@ -46,7 +46,7 @@ module StaticFilesToys
 							menu.prompt = "Delete #{filename} ? "
 
 							menu.choice(:yes) { `git rm #{file.gsub(' ', '\ ')}` }
-							menu.choice(:no) {}
+							menu.choice(:no) { nil }
 							menu.choice(:skip) { @skipping_dir = File.dirname(file) }
 						end
 					end

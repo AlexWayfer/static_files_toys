@@ -5,8 +5,8 @@
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/static_files_toys.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/static_files_toys)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/static_files_toys)
 [![Inline docs](https://inch-ci.org/github/AlexWayfer/static_files_toys.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/static_files_toys)
-[![license](https://img.shields.io/github/license/AlexWayfer/static_files_toys.svg?style=flat-square)](https://github.com/AlexWayfer/static_files_toys/blob/main/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/static_files_toys.svg?style=flat-square)](https://rubygems.org/gems/static_files_toys)
+[![License](https://img.shields.io/github/license/AlexWayfer/static_files_toys.svg?style=flat-square)](LICENSE.txt)
 
 Toys template for static (public) files of a web-application.
 

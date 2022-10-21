@@ -8,7 +8,7 @@ module StaticFilesToys
 		include Toys::Template
 
 		GREP_OPTIONS = <<~STR.chomp
-			-ir --exclude-dir={\.git,log,node_modules,extra} --color=always
+			-ir --exclude-dir={.git,log,node_modules,extra} --color=always
 		STR
 
 		on_expand do

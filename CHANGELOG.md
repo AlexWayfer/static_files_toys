@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 0.5.0 (2022-10-22)
+
+*   Update `toys-core`.
+*   Update `rubocop` and resolve new offenses.
+*   Improve CI.
+*   Update badges in README.
+
 ## 0.4.0 (2022-09-01)
 
 *   Add Ruby 3.1 for CI.

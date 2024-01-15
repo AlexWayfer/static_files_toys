@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 0.7.0 (2024-01-15)
+
+*   Drop Ruby 2.7 support.
+*   Add Ruby 3.3 for CI.
+*   Update `highline` dependency.
+*   Update development dependencies.
+
 ## 0.6.0 (2023-11-02)
 
 *   Drop Ruby 2.6 support.

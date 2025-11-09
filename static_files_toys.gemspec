@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
 	spec.files = Dir['lib/**/*.rb', 'README.md', 'LICENSE.txt', 'CHANGELOG.md']
 
 	spec.add_runtime_dependency 'highline', '~> 3.0'
-	spec.add_runtime_dependency 'toys-core', '~> 0.15.3'
+	spec.add_runtime_dependency 'toys-core', '~> 0.17.0'
 end

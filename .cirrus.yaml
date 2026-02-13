@@ -39,6 +39,17 @@ remark_task:
       '.cirrus.yaml', '.gitignore', 'package.json', '.remarkrc.yaml', '**.md'
     )
 
+bundle-audit_task:
+  container:
+    image: ruby
+
+  <<: *bundle_cache
+
+  audit_script: bundle exec bundle-audit check --update
+
+  only_if: ($CIRRUS_BRANCH == 'main') ||
+    changesInclude(
+
 rubocop_task:
   container:
     image: ruby:latest

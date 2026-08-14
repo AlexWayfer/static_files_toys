@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 1.1.0 (2026-08-14)
+
+*   Update dependencies.
+*   Switch from Cirrus CI to GitHub Actions.
+*   Fix badges in README.
+
 ## 1.0.0 (2026-02-13)
 
 *   Add Ruby 3.4 and 4.0 support.

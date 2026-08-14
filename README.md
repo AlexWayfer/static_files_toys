@@ -1,6 +1,6 @@
 # Static Files Toys
 
-[![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/static_files_toys?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/static_files_toys)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/AlexWayfer/static_files_toys/ci.yml?style=flat-square)](https://github.com/AlexWayfer/static_files_toys/actions)
 [![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/static_files_toys/main.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/static_files_toys)
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/static_files_toys.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/static_files_toys)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/static_files_toys)
